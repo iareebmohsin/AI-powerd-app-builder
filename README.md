@@ -1,18 +1,18 @@
-# 🧠 AliFullStack — AI-Powered Full-Stack App Builder (Local-First, Open Source)
+# 🧠 Easy app builder — AI-Powered Full-Stack App Builder (Local-First)
 
-**AliFullStack** is a blazing-fast, **AI-driven Full-Stack App Builder** that runs entirely **locally** — giving you total **data privacy**, **vendor freedom**, and powerful **LLM integration**. Whether you're a solo indie hacker, startup, or enterprise developer, AliFullStack helps you **build, test, and deploy apps autonomously** using your favorite frontend and backend frameworks.
+**Easy app builder** is a blazing-fast, **AI-driven Full-Stack App Builder** that runs entirely **locally** — giving you total **data privacy**, **vendor freedom**, and powerful **LLM integration**. Whether you're a solo indie hacker, startup, or enterprise developer, Easy app builder helps you **build, test, and deploy apps autonomously** using your favorite frontend and backend frameworks.
 
-> ✅ 100% Local | 🚀 LLM-Powered | 🧠 BYO AI API Key | 🧩 Framework-Agnostic | 💡 Open Source
+> ✅ 100% Local | 🚀 LLM-Powered | 🧠 BYO AI API Key | 🧩 Framework-Agnostic
 
-Inspired by tools like *Lovable*, *v0.dev*, and *Bolt*, but with no lock-in or cloud dependency. Built on top of [Dyad](https://github.com/dyad-sh/dyad), AliFullStack gives you the power of AI without sacrificing control.
+Inspired by tools like *Lovable*, *v0.dev*, and *Bolt*, but with no lock-in or cloud dependency. Built on top of [Dyad](https://github.com/dyad-sh/dyad), Easy app builder gives you the power of AI without sacrificing control.
 
-![AliFullStack Screenshot](https://github.com/user-attachments/assets/f6c83dfc-6ffd-4d32-93dd-4b9c46d17790)
+![Easy app builder Screenshot](https://github.com/user-attachments/assets/f6c83dfc-6ffd-4d32-93dd-4b9c46d17790)
 
-<!-- 🌐 **Live Demo & Docs**: [alifullstack.alitech.io](https://alifullstack.alitech.io) -->
+<!-- 🌐 **Live Demo & Docs**: [Easy app builder.alitech.io](https://Easy app builder.alitech.io) -->
 
 ## 👏 Acknowledgments
 
-AliFullstack is built on top of other awesome open-source projects:
+Easy app builder is built on top of other awesome open-source projects:
 
 - [Dyad](https://github.com/dyad-sh/dyad)
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
@@ -32,7 +32,7 @@ Huge thanks to their creators and contributors!
 
 Help us grow! If you're excited about AI developer tools, autonomous coding, or local-first privacy-first software:
 
-👉 **[Give us a ⭐ on GitHub](https://github.com/SFARPak/AliFullStack)** — it really helps!
+👉 **[Give us a ⭐ on GitHub](https://github.com/SFARPak/Easy app builder)** — it really helps!
 
 ---
 
@@ -49,7 +49,7 @@ Help us grow! If you're excited about AI developer tools, autonomous coding, or 
 
 ## 🛣️ Roadmap
 
-AliFullStack is evolving rapidly. Here's what’s done and what’s coming soon:
+Easy app builder is evolving rapidly. Here's what’s done and what’s coming soon:
 
 ### 🎨 Frontend Frameworks
 - [x] [ReactJS](https://reactjs.org)
@@ -75,7 +75,7 @@ AliFullStack is evolving rapidly. Here's what’s done and what’s coming soon:
 - [x] [Google Vertex AI](https://cloud.google.com/vertex-ai)
 - [x] [Anthropic Claude](https://www.anthropic.com)
 - [x] [OpenRouter](https://openrouter.ai)
-- [x] [Dyad](https://alifullstack.alitech.io)
+- [x] [Dyad](https://Easy app builder.alitech.io)
 - [x] [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - [x] [xAI](https://x.ai)
 - [x] [AWS Bedrock](https://aws.amazon.com/bedrock/)
@@ -113,7 +113,7 @@ AliFullStack is evolving rapidly. Here's what’s done and what’s coming soon:
 
 No sign-up. No cloud lock-in. Just download and build.
 
-👉 **[Download AliFullStack](https://www.alifullstack.alitech.io/#download)** for your OS and start building.
+👉 **[Download Easy app builder](https://www.Easy app builder.alitech.io/#download)** for your OS and start building.
 
 ---
 
@@ -129,8 +129,8 @@ No sign-up. No cloud lock-in. Just download and build.
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/SFARPak/AliFullStack.git
-   cd AliFullStack
+   git clone https://github.com/SFARPak/Easy app builder.git
+   cd Easy app builder
    ```
 
 2. **Install dependencies:**
@@ -237,15 +237,15 @@ For more details, see **[CONTRIBUTING.md](./CONTRIBUTING.md)**.
 
 Be part of a growing network of **AI tinkerers**, **indie hackers**, and **full-stack dreamers**:
 
-- 🧵 Reddit: [r/alifullstackbuilders](https://www.reddit.com/user/alifullstackbuilder/)
-- 🐦 Twitter/X: [@alifullstack](https://x.com/AliFullStackAI) *(coming soon)*
-- 🌐 Website: [alifullstack.alitech.io](https://alifullstack.alitech.io)
+- 🧵 Reddit: [r/Easy app builderbuilders](https://www.reddit.com/user/Easy app builderbuilder/)
+- 🐦 Twitter/X: [@Easy app builder](https://x.com/Easy app builderAI) *(coming soon)*
+- 🌐 Website: [Easy app builder.alitech.io](https://Easy app builder.alitech.io)
 
 ---
 
-## 🤝 Contribute to AliFullStack
+## 🤝 Contribute to Easy app builder
 
-AliFullStack is **Apache 2.0 licensed** and open to contributors!
+Easy app builder is **Apache 2.0 licensed** and open to contributors!
 
 You can:
 - 🐛 Fix bugs
@@ -265,7 +265,7 @@ Be the first to know about:
 - 🧠 Devlogs
 - 🚀 Launches
 
-<!-- 📧 Subscribe via the [website](https://alifullstack.alitech.io) or follow us on [Reddit](https://www.reddit.com/r/alifullstackbuilders/). -->
+<!-- 📧 Subscribe via the [website](https://Easy app builder.alitech.io) or follow us on [Reddit](https://www.reddit.com/r/Easy app builderbuilders/). -->
 
 ---
 
@@ -274,8 +274,8 @@ Be the first to know about:
 - 💻 [Live Demo / Docs]- Coming Soon
 - 📥 [Download] - Coming Soon
 - 🧑‍💻 [Contribute](./CONTRIBUTING.md)
-- ⭐ [Star on GitHub](https://github.com/SFARPak/AliFullStack)
-- 🧵 [Reddit Community](https://www.reddit.com/r/alifullstackbuilders/)
+- ⭐ [Star on GitHub](https://github.com/SFARPak/Easy app builder)
+- 🧵 [Reddit Community](https://www.reddit.com/r/Easy app builderbuilders/)
 
 ---
 
